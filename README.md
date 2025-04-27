@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">🌊 KANAGAWA.nvim 🌊</h2>
+  <h2 align="center">🌊 KANAGAWA.nvim (contrast-based version) 🌊</h2>
 </p>
 
 <p align="center">
@@ -13,6 +13,17 @@
 </p>
 
 [![W3C](https://img.shields.io/badge/WCAG_2.1_|_AA-756891?logo=w3c&logoColor=fff&style=for-the-badge)](https://www.w3.org/TR/WCAG21/#contrast-minimum)
+
+## About this fork
+
+This is a fork of [Kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) made with the goal of getting higher contrast and other feautures.
+
+It includes the following features:
+
+- Increased contrast for most foreground and background colors.
+- A redesigned style for the PMenu (popup menu).
+- Custom support for the [Flash](https://github.com/folke/flash.nvim) plugin (with a style independent of the general colorscheme).
+- Additional highlight support for the [Tabline](https://github.com/kdheepak/tabline.nvim) plugin.
 
 ## Features
 
