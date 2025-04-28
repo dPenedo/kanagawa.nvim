@@ -30,8 +30,7 @@ local palette = {
 	winterRed = "#43242B",
 	winterBlue = "#252535",
 	autumnGreen = "#76946A",
-	-- autumnRed = "#C34043",
-	autumnRed = "#E36A6D",
+	autumnRed = "#C34043",
 	autumnYellow = "#DCA561",
 
 	-- Diag
@@ -71,7 +70,7 @@ local palette = {
 	-- waveAqua3  = "#68AD99",
 
 	-- springGreen = "#98BB6C",
-	springGreen = "#B8DB8C",
+	springGreen = "#AFD185",
 	boatYellow1 = "#938056",
 	-- boatYellow1 = "#B3A076",
 	-- boatYellow2 = "#C0A36E",
